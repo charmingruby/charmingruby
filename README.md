@@ -1,16 +1,15 @@
 # Hi there, I'm Gustavo Dias 👋 
 
 
-## I'm a Developer and a Student !!
-
-- :computer: Focusing in Front End development;
-- :books: I’m currently learning the MERN Stack;
+## :technologist: Developer and Student :
+  
 - :mortar_board: Computer Science Undergraduate at Federal University of Juiz de Fora;
-- :cake: 18 years old; 
+- :computer: Focusing in Front End development;
+- :cake: 19 years old; 
 
 #
 
-## :wrench: Languages and Techs:
+## :wrench: Languages and Techs :
 
 <div style="display: inline_block"><br>
   
