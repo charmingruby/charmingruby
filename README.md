@@ -3,7 +3,7 @@
 
 ## :technologist: Developer and Student :
   
-- :mortar_board: Computer Science Undergraduate at Federal University of Juiz de Fora;
+- :mortar_board: Computer Science Student at Federal University of Juiz de Fora;
 - :computer: Focusing in Front End development;
 - :cake: 19 years old; 
 
