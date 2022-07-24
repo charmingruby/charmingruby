@@ -4,10 +4,8 @@
 ## :technologist: Developer and Student :
   
 - :mortar_board: Computer Science Student at Federal University of Juiz de Fora;
-- :computer: Focusing in Front End development;
+- :computer: Focusing in Vanilla JavaScript and their Frameworks;
 - :cake: 19 years old; 
-
-#
 
 ## :wrench: Languages and Techs :
 
