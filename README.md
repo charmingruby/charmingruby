@@ -1,10 +1,10 @@
 # Hi there, I'm Gustavo Dias 👋 
 
 
-## :technologist: Developer and Student :
+## :technologist: FullStack Developer :
   
 - :mortar_board: Computer Science Student at Federal University of Juiz de Fora;
-- :computer: Focusing in FullStack Development;
+- :computer: Focusing in Node, React, Go, Flutter;
 - :cake: 19 years old; 
 
 ## :wrench: Languages and Techs :
