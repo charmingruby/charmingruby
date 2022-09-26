@@ -4,7 +4,7 @@
 ## :technologist: FullStack Developer :
   
 - :mortar_board: Computer Science Student at Federal University of Juiz de Fora;
-- :computer: Focusing in Node, React, Go, Flutter;
+- :computer: Focusing in Node, React, Go;
 - :cake: 19 years old; 
 
 ## :wrench: Languages and Techs :
