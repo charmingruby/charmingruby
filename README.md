@@ -4,7 +4,7 @@
 ## :dart: FullStack Developer :
   
 - :mortar_board: Computer Science Student at Federal University of Juiz de Fora;
-- :computer: Focusing in Node, React;
+- :computer: Focusing in NMERN Stack;
 - :cake: 19 years old; 
 
 ## :wrench: Languages and Techs :
