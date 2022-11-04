@@ -14,7 +14,7 @@
 
 ## :wrench: Languages and Techs :
 <p align="justify"><a href="#>
- <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node"/>
  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
  <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -27,7 +27,7 @@
  
 ## :mailbox: Social Medias:
 <p align="justify">
-<a href="https://www.linkedin.com/in/gustavo-dias21/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://www.instagram.com/gustavodiasa"><img src="https://img.shields.io/badge/guilherme.bermeo-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
+<a href="https://www.linkedin.com/in/gustavo-dias21/"><img src="https://img.shields.io/badge/Linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+<a href="https://www.instagram.com/gustavodiasa"><img src="https://img.shields.io/badge/Instagram-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
 <a href="https://open.spotify.com/user/mrruby3105"><img src="https://img.shields.io/badge/Spotify-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
 </p>
