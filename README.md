@@ -1,4 +1,4 @@
-# Hi there, I'm Gustavo Dias 👋 
+# 👋 Hi there, I'm Gustavo Dias  
 
 <p align="left">
 <a href="#">
