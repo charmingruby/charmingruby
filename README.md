@@ -1,6 +1,6 @@
 # 👋 **Hi there, I'm Gustavo Dias**
 
-<<div align="left">
+<div align="left">
   <a href="https://github.com/charmingruby">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=charmingruby&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,6 +15,11 @@
 ## :wrench: Technologies I use on a daily basis :
 
   <div style="display: inline_block"><br>
+    
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />    
+
+
+    
     <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gustavo-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Gustavo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -22,7 +27,7 @@
     <img align="center" alt="Gustavo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Gustavo-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="Gustavo-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />     
-    <img align="center" alt="Gustavo-Postregs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="Gustavo-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="Gustavo-docker" height="36" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div><br>
 
