@@ -9,12 +9,13 @@
  
  - 🚀 *Focused at studying JavaScript ecosystem*
 
-## 🔮 Technologies that I use on a daily basis : 
+## 🔮 Technologies my daily basis : 
 
 ### Backend :
 
 <div text-align="justify">  
 <img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
 </div>
  
@@ -35,7 +36,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
 </div>
 
-## 📈 Statistics
+## 📈 Statistics :
 
 <div align="left">
   <a href="https://github.com/charmingruby">
@@ -43,7 +44,7 @@
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## :mailbox: Connect with me :	
+## :mailbox: Get in touch :	
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavodiasa2121@gmail.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charmingruby)   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532991100990) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dias21)
