@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/storybook-20232A?style=for-the-badge&logo=storybook&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB" />
 </div>
 
 ### Database :
