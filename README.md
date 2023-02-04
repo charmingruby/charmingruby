@@ -11,7 +11,7 @@
 
 ## 🔮 Technologies my daily basis : 
 
-### Backend :
+- ### Backend :
 
 <div text-align="justify">  
 <img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
 </div>
  
-### Frontend :
+- ### Frontend :
 
 <div text-align="justify">  
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
@@ -27,11 +27,10 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/storybook-20232A?style=for-the-badge&logo=storybook&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB" />
 </div>
 
-### Database :
+- ### Database :
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
