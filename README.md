@@ -47,5 +47,5 @@
 
 ## :mailbox: Get in touch :	
  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-61DAFB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavodiasa2121@gmail.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-61DAFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charmingruby)   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-61DAFB?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5532991100990) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-61DAFB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dias21)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:gustavodiasa2121@gmail.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=61DAFB)](https://github.com/charmingruby)   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-20232A?style=for-the-badge&logo=whatsapp&logoColor=61DAFB)](https://api.whatsapp.com/send?phone=5532991100990) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/gustavo-dias21)
