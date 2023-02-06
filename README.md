@@ -15,6 +15,7 @@
 
 <div text-align="justify">  
 <img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
 </div>
@@ -34,6 +35,7 @@
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
 </div>
 
 ## 📈 Statistics :
