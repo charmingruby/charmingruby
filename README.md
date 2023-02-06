@@ -4,9 +4,7 @@
  - 👨‍💻 *My name is Gustavo Dias and I'm from Juiz de Fora, Minas Gerais* 
 
  - 💻 *Computer Science Student at Federal University of Juiz de Fora* 
- 
- - ✨ *Passionate at Web Development* 
- 
+  
  - 🚀 *Focused at studying JavaScript ecosystem*
 
 ## 🔮 Technologies my daily basis : 
