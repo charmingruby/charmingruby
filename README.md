@@ -34,7 +34,6 @@
 
 <div text-align="justify">
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
 </div>
 
 ## 📈 Statistics :
