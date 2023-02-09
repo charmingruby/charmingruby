@@ -30,6 +30,11 @@
 <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB" />
 </div>
 
+- ### Mobile:
+<div text-align="justify">
+<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
+</div>
+
 - ### Database :
 
 <div text-align="justify">
