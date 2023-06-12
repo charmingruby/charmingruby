@@ -50,14 +50,6 @@
 - ### Cloud :
 <img src="https://img.shields.io/badge/Amazon AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=61DAFB" />
 
-## 📈 Statistics :
-
-<div align="left">
-  <a href="https://github.com/charmingruby">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=charmingruby&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&layout=compact&langs_count=5&theme=github_dark"/>
-</div>
-
 ## :mailbox: Get in touch :	
  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:gustavodiasa2121@gmail.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=61DAFB)](https://github.com/charmingruby)   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-20232A?style=for-the-badge&logo=whatsapp&logoColor=61DAFB)](https://api.whatsapp.com/send?phone=5532991100990) 
