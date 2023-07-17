@@ -5,7 +5,7 @@
 
  - 💻 *Computer Science Student at Federal University of Juiz de Fora* 
   
- - 🚀 *Focused at studying JavaScript ecosystem*
+ - 🚀 *Focused at studying Backend*
 
 ## 🔮 Technologies my daily basis : 
 
