@@ -14,6 +14,9 @@
 <div text-align="justify">  
 <img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Elixir-20232A?style=for-the-badge&logo=elixir&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/GraphQl-20232A?style=for-the-badge&logo=graphql&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/fastify-20232A?style=for-the-badge&logo=fastify&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
