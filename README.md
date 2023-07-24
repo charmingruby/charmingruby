@@ -1,58 +1,39 @@
-# 👋 **Hi there, I'm Gustavo Dias**
+### **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-## 💡 About me :
- - 👨‍💻 *My name is Gustavo Dias and I'm from Juiz de Fora, Minas Gerais* 
+### Full Stack Developer
+* 👨‍💻 Currently improving in Next, Node and Elixir
+* 🌍 Born in Brazil 🇧🇷
+* 🤝  Enthusiast of the best web development technologies
+* 📚  Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
+* 🖥️  Check out my portfolio [here](https://gustavodiasa-portfolio.vercel.app)
+* 🧪 “Testing leads to failure, and failure leads to understanding."
 
- - 💻 *Computer Science Student at Federal University of Juiz de Fora* 
-  
- - 🚀 *Focused at studying Backend*
-
-## 🔮 Technologies my daily basis : 
-
-- ### Backend :
-
+###  Technologies 
 <div text-align="justify">  
 <img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Elixir-20232A?style=for-the-badge&logo=elixir&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/GraphQl-20232A?style=for-the-badge&logo=graphql&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/fastify-20232A?style=for-the-badge&logo=fastify&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
-</div>
- 
-- ### Frontend :
-
-<div text-align="justify">  
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=61DAFB" />
-</div>
-
-- ### Mobile:
-<div text-align="justify">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
-</div>
-
-- ### Database :
-
-<div text-align="justify">
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/redis-20232A?&style=for-the-badge&logo=redis&logoColor=61DAFB"/>
 </div>
 
-- ### Cloud :
-<img src="https://img.shields.io/badge/Amazon AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=61DAFB" />
+### Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&layout=compact&langs_count=4&theme=dracula"/>
 
-## :mailbox: Get in touch :	
- 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:gustavodiasa2121@gmail.com) [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=61DAFB)](https://github.com/charmingruby)   [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-20232A?style=for-the-badge&logo=whatsapp&logoColor=61DAFB)](https://api.whatsapp.com/send?phone=5532991100990) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/gustavo-dias21)
+### Find me elsewhere
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Dias-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
+[![Gmail Badge](https://img.shields.io/badge/-gustavodiasa2121@gmail.com-20232A?style=for-the-badge&logo=Gmail&logoColor=61DAFB&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
