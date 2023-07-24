@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/fastify-20232A?style=for-the-badge&logo=fastify&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vitest-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
