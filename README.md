@@ -1,7 +1,7 @@
 ### **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ### Full Stack Developer
-* 👨‍💻 Currently improving in React, Next, Node and Elixir
+* 👨‍💻 Currently improving in React, Next, Node and Nest.
 * 🌍 Born in Brazil 🇧🇷
 * 🤝  Enthusiast of the best web development technologies
 * 📚  Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
