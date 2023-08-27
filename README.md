@@ -31,9 +31,6 @@
 <img src="https://img.shields.io/badge/redis-20232A?&style=for-the-badge&logo=redis&logoColor=61DAFB"/>
 </div>
 
-### Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&layout=compact&langs_count=4&theme=dracula"/>
-
 ### Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Dias21-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
 [![Gmail Badge](https://img.shields.io/badge/-gustavodiasa2121@gmail.com-20232A?style=for-the-badge&logo=Gmail&logoColor=61DAFB&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
