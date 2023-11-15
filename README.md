@@ -5,7 +5,7 @@
 * 🌍 Born in Brazil 🇧🇷
 * 🤝  Enthusiast of the best web development technologies
 * 📚  Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
-* 🖥️  Check out my portfolio [here](https://gustavodiasa-portfolio.vercel.app)
+* 🖥️  Check out my portfolio [here](https://www.gustavodiasa.dev/)
 * 🧪 “Testing leads to failure, and failure leads to understanding."
 
 ###  Technologies 
