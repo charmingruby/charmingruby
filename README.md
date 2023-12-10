@@ -1,34 +1,53 @@
-### **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ### Full Stack Developer
-* 👨‍💻 My current stack is: React, Node and Elixir.
+* 👨‍💻 My current stack is: React, Go and Elixir.
 * 🌍 Born in Brazil 🇧🇷
-* 🤝  Enthusiast of the best web development technologies
 * 📚  Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
 * 🖥️  Check out my portfolio [here](https://www.gustavodiasa.dev/)
 * 🧪 “Testing leads to failure, and failure leads to understanding."
 
 ###  Technologies 
 <div text-align="justify">  
-<img src="https://img.shields.io/badge/Node%20js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Elixir-20232A?style=for-the-badge&logo=elixir&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/GraphQl-20232A?style=for-the-badge&logo=graphql&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next%20js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Express%20js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/fastify-20232A?style=for-the-badge&logo=fastify&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=Prisma&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vitest-20232A?style=for-the-badge&logo=vite&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/redis-20232A?&style=for-the-badge&logo=redis&logoColor=61DAFB"/>
+  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo"  />
+  <img width="4" />
+  
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="4" />
 </div>
 
 ### Find me elsewhere
