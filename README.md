@@ -50,6 +50,9 @@
   <img width="4" />
 </div>
 
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&show_icons=true&theme=transparent&layout=compact)
+
 ### Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Dias21-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
 [![Gmail Badge](https://img.shields.io/badge/-gustavodiasa2121@gmail.com-20232A?style=for-the-badge&logo=Gmail&logoColor=61DAFB&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
