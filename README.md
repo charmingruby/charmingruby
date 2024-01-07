@@ -1,7 +1,7 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ### Full Stack Developer
-* 👨‍💻 My current stack is: React, Go and Elixir.
+* 👨‍💻 My current stack is: React, Next Go, Java and Elixir.
 * 🌍 Born in Brazil 🇧🇷
 * 📚  Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
 * 🖥️  Check out my portfolio [here](https://www.gustavodiasa.dev/)
@@ -9,12 +9,6 @@
 
 ###  Technologies 
 <div text-align="justify">  
-  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
-  <img width="4" />
-
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="4" />
-
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
@@ -23,6 +17,18 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo"  />
   <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
+  <img width="4" />
+
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="go logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="go logo"  />
+  <img width="4" />
+
+
   
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="4" />
