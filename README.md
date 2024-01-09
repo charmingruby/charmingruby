@@ -20,38 +20,28 @@
 
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="4" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="4" />
-
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="4" />
-
-
   
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="4" />
-
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="4" />
-
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="4" />
-
-  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
-  <img width="4" />
-
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="4" />
-
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="4" />
-
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="4" />
 </div>
