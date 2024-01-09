@@ -1,7 +1,7 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ### Full Stack Developer
-* 👨‍💻 My current stack is: React, Next Go, Java and Elixir.
+* 👨‍💻 My current stack is: React, Go, Java and Elixir.
 * 🌍 Born in Brazil 🇧🇷
 * 📚  Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
 * 🖥️  Check out my portfolio [here](https://www.gustavodiasa.dev/)
