@@ -9,6 +9,12 @@
 
 ###  Technologies 
 <div text-align="justify">  
+
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
+  <img width="4" />
+  
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
@@ -18,10 +24,6 @@
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo"  />
   <img width="4" />
 
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -43,7 +45,7 @@
 </div>
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&show_icons=true&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&show_icons=true&theme=transparent&layout=compact&langs_count=4)
 
 ### Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Dias21-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
