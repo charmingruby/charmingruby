@@ -1,8 +1,8 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-### FullStack Developer
+### Full-Stack Developer
 * 👨‍💻 My current stack on work is: React, Next, Go, Node, Nest and Elixir.
-* 💼 Current working on Concatech as Backend Elixir Jr. and freelancing on Apperize as FullStack.
+* 💼 Current working in <strong>Concatech as Junior Back-end Elixir</strong> and in <strong>Apperize as Full-Stack Typescript & Go</strong>.
 * 🌍 Born in Brazil 🇧🇷
 * 📚 Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
 * 🖥️ Check out my portfolio [here](https://www.gustavodiasa.dev/)
