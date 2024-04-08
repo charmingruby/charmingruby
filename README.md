@@ -1,6 +1,6 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-### Back end Developer
+### Full Stack Developer
 * 👨‍💻 My current stack on work is: Go, Elixir, Node and React.
 * 💼 Current working in <strong>Concatech as Junior Back end Elixir</strong> and in <strong>Apperize as Full Stack Typescript & Go</strong>.
 * 🌍 Born in Brazil 🇧🇷
