@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 * 👨‍💻 My current stack on work is: Go, Elixir, Node and React.
-* 💼 Current working in <strong>Concatech as Junior Back end Elixir</strong> and in <strong>Apperize as Full Stack Typescript & Go</strong>.
+* 💼 Current working in <strong>Concatech as Junior Back end Elixir</strong> and freelacing in <strong>Apperize as Full Stack Typescript & Go</strong>.
 * 🌍 Born in Brazil 🇧🇷
 * 📚 Student [@UFJF](https://www2.ufjf.br/ufjf/) [@Rocketseat](https://www.rocketseat.com.br/)
 * 🖥️ Check out my portfolio [here](https://www.gustavodiasa.dev/)
