@@ -1,8 +1,8 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-### Full Stack Developer
+### Software Engineer
 * 👨‍💻 My current stack on work is: Go, Elixir, Node and React.
-* 💼 Current working in <strong>Concatech as Junior Back end Elixir</strong> and freelacing in <strong>Apperize as Full Stack Node, React & Go</strong>.
+* 💼 Current working in <strong>Concatech as Junior Back end Go and Elixir</strong> and freelacing in <strong>Apperize as Full Stack Go, Elixir and React</strong>.
 * 🌍 Born in Brazil 🇧🇷.
 * 📚 Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 * 🖥️ Check out my [Portfolio](https://www.gustavodiasa.dev/)
