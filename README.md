@@ -16,9 +16,13 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring-boot logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="4" />
