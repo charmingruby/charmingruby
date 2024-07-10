@@ -16,17 +16,13 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring-boot logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="4" />
@@ -43,6 +39,8 @@
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongo logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="4" />
