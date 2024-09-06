@@ -1,8 +1,8 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ### Software Engineer
-* 👨‍💻 My current stack on work is: Go, Nest, Node, React and Next.
-* 💼 Current working at <strong>Brand Monitor</strong> as <strong>Mid-level Full Stack Engineer</strong>.
+* 👨‍💻 My current stack on work is: Go, Node and AWS.
+* 💼 Current working at <strong>V3</strong> as <strong>Mid-level Backend Engineer</strong>.
 * 🌍 Born in Brazil 🇧🇷.
 * 📚 Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 * 🖥️ Check out my [Portfolio](https://www.gustavodiasa.dev/)
