@@ -1,7 +1,7 @@
 ## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 ### Software Engineer
-* 👨‍💻 My current stack on work is: Go, Node and AWS.
+* 👨‍💻 My current stack on work is: Go, Kotlin, Node and AWS.
 * 💼 Current working at <strong>V3</strong> as <strong>Mid-level Backend Engineer</strong>.
 * 🌍 Born in Brazil 🇧🇷.
 * 📚 Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
