@@ -18,9 +18,11 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="4" />
@@ -45,6 +47,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
   <img width="4" />
 
   
