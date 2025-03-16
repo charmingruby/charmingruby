@@ -18,6 +18,8 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   <img width="4" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=elixir" height="40" alt="elixir logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
