@@ -1,42 +1,19 @@
-## **Hi, I'm Gustavo Dias** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+# **Hi, I'm Gustavo Dias** <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
 
-### Software Engineer
-* 👨‍💻 My current stack on work is: Go, Elixir, Node and React.
-* 💼 Current working at <strong>V3</strong> as <strong>Mid-level Backend Engineer</strong>.
+## Software Engineer
+* 💼 Currently working as a **Mid-level Backend Engineer**.
 * 🌍 Born in Brazil 🇧🇷.
 * 📚 Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 * 🖥️ Check out my [Portfolio](https://www.gustavodiasa.dev/)
 
-###  Current stack 
-<div text-align="justify">  
-
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nest logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
-  <img width="4" />
-
-  
+## Current stack  
+<div>  
+  <img src="https://skillicons.dev/icons?i=go,nest,nodejs,typescript,solidity,aws,terraform,kubernetes,react,next" height="40" />
 </div>
 
-### Stats
+## Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&show_icons=true&theme=transparent&layout=compact)
 
-### Find me elsewhere
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Dias21-20232A?style=for-the-badge&logo=Linkedin&logoColor=61DAFB&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
-[![Gmail Badge](https://img.shields.io/badge/-gustavodiasa2121@gmail.com-20232A?style=for-the-badge&logo=Gmail&logoColor=61DAFB&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
+## Find me elsewhere
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
+[![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
