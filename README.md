@@ -8,7 +8,7 @@
 
 ## Current stack  
 <div>  
-  <img src="https://skillicons.dev/icons?i=go,nest,nodejs,typescript,solidity,aws,terraform,kubernetes,react,next" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,solidity,aws,terraform,kubernetes,react,next" height="40" />
 </div>
 
 ## Stats  
