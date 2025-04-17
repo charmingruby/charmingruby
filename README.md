@@ -12,7 +12,7 @@
 </div>
 
 ## Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&show_icons=true&theme=transparent&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&langs_count=6&show_icons=true&theme=transparent&layout=compact)
 
 ## Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
