@@ -1,15 +1,26 @@
-# **Hi, I'm Gustavo Dias** <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
+# Hi there, I'm Gustavo Dias 👋 <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
 
-### Software Engineer
-* 💼 Currently working as a **Mid-level Backend Engineer**.
-* 🌍 Born in Brazil 🇧🇷.
-* 📚 Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
+**💻 Software Engineer**  
+- Currently working as a **Mid-level Backend Engineer**.  
+- Born in Brazil 🇧🇷.  
+- Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 
-### How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
+**🎯 Interests**  
+- Platform Engineering  
+- Distributed systems  
+- Software Architecture and System Design  
+- Cloud and Infrastructure  
+- AI
 
-### Current stack  
+**📬 How to reach me**  
+
+<div>
+    
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/)
+
+</div>
+
+**🧰 Current stack**  
 <div>  
   <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,aws,terraform,kubernetes,react,next" height="40" />
 </div>
@@ -17,14 +28,6 @@
 <br/>
 
 <table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charmingruby&theme=github_dark" />
-    </td>
-  </tr>
-
-  <tr></tr>
-
   <tr>
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charmingruby&theme=github_dark" />
