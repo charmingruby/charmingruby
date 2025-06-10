@@ -12,7 +12,24 @@
 </div>
 
 ## Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&langs_count=6&show_icons=true&theme=transparent&layout=compact)
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charmingruby&theme=github_dark" />
+    </td>
+  </tr>
+
+  <tr></tr>
+
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charmingruby&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charmingruby&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 ## Find me elsewhere
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
