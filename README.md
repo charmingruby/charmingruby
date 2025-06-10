@@ -1,20 +1,21 @@
 # **Hi, I'm Gustavo Dias** <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
 
-## Software Engineer
+### Software Engineer
 * 💼 Currently working as a **Mid-level Backend Engineer**.
 * 🌍 Born in Brazil 🇧🇷.
 * 📚 Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 
-## How to reach me
+### How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/gustavo-dias21/)](https://www.linkedin.com/in/gustavo-dias21/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff&link=mailto:gustavodiasa2121@gmail.com)](gustavodiasa2121@gmail.com)
 
-## Current stack  
+### Current stack  
 <div>  
   <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,aws,terraform,kubernetes,react,next" height="40" />
 </div>
 
-## Stats  
+<br/>
+
 <table>
   <tr>
     <td colspan="2" align="center">
