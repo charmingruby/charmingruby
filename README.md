@@ -22,7 +22,7 @@
 
 **🧰 Current stack**  
 <div>  
-  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,rust,elixir,aws,terraform,kubernetes,react,next" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,java,spring,aws,terraform,kubernetes,react,next" height="40" />
 </div>
 
 <br/>
