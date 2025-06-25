@@ -10,7 +10,6 @@
 - Distributed systems  
 - Software Architecture and System Design  
 - Cloud and Infrastructure  
-- AI
 
 **📬 How to reach me**  
 
