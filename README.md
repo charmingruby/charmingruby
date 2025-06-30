@@ -26,13 +26,4 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charmingruby&theme=github_dark" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charmingruby&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charmingruby&theme=github_dark" />
