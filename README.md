@@ -21,9 +21,9 @@
 
 **🧰 Current stack**  
 <div>  
-  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,java,spring,aws,terraform,kubernetes,react,next" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,aws,terraform,kubernetes,react,next" height="40" />
 </div>
 
 <br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charmingruby&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmingruby&layout=compact&langs_count=6&theme=tokyonight"/>
