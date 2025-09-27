@@ -9,7 +9,8 @@
 - Platform Engineering  
 - Distributed systems  
 - Software Architecture and System Design  
-- Cloud and Infrastructure  
+- Cloud and Infrastructure
+- AI
 
 **📬 How to reach me**  
 
@@ -21,7 +22,7 @@
 
 **🧰 Current stack**  
 <div>  
-  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,elixir,aws,terraform,kubernetes,react,next" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,nest,nodejs,aws,terraform,kubernetes,react,next" height="40" />
 </div>
 
 <br/>
