@@ -1,7 +1,7 @@
 # Hi there, I'm Gustavo Dias 👋 <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
 
 **💻 Software Engineer**  
-- Currently working as a **Mid-level Backend Engineer**
+- Currently working as a Backend Engineer
 - Born in Brazil 🇧🇷
 - Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 
