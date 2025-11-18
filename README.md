@@ -8,7 +8,6 @@
 **🎯 Interests**  
 - Platform Engineering  
 - Distributed systems  
-- Software Architecture and System Design  
 - Cloud and Infrastructure
 - AI
 
