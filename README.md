@@ -6,10 +6,9 @@
 - Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 
 **🎯 Interests**  
-- Platform Engineering  
 - Distributed systems  
-- Cloud and Infrastructure
-- AI
+- Software Architecture  
+- Cloud
 
 **📬 How to reach me**  
 
