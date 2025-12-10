@@ -20,7 +20,7 @@
 
 **🧰 Current stack**  
 <div>  
-  <img src="https://skillicons.dev/icons?i=go,rust,typescript,nodejs,elixir,aws,terraform,kubernetes,react" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,aws,terraform,kubernetes,elixir,zig,rust" height="40" />
 </div>
 
 <br/>
