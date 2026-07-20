@@ -1,7 +1,7 @@
 # Hi there, I'm Gustavo Dias 👋 <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wave.gif" width="30">
 
 **💻 Software Engineer**  
-- Currently working as a Backend Software Engineer
+- Currently working as a Senior Software Engineer
 - Born in Brazil 🇧🇷
 - Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 
@@ -20,7 +20,7 @@
 
 **🧰 Current stack**  
 <div>  
-  <img src="https://skillicons.dev/icons?i=go,typescript,aws,terraform,kubernetes,elixir,zig,rust,lua" height="40" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,aws,terraform,kubernetes,react,elixir,zig,rust,lua" height="40" />
 </div>
 
 <br/>
