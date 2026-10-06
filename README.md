@@ -9,7 +9,6 @@
 - Distributed systems  
 - Software Architecture  
 - Cloud
-- AI
 
 **Stack**  
 <div>  
