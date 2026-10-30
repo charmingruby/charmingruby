@@ -5,10 +5,11 @@
 - Born in Brazil
 - Computer Science Student at [UFJF](https://www2.ufjf.br/ufjf/)
 
-**Interests**  
-- Distributed systems  
-- Software Architecture  
+**Interests**
+- Distributed Systems
+- Software Architecture
 - Cloud
+- AI
 
 **Stack**  
 <div>  
