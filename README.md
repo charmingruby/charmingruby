@@ -7,7 +7,6 @@
 
 **Interests**
 - Distributed Systems
-- Software Architecture
 - Cloud
 - AI
 
